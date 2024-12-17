@@ -6,10 +6,10 @@ function AboutUs() {
     <div className="about-us">
       <ul className="links">
         <li>
-          <Link to="site-history">Site History</Link>
+          <Link to="site-history">History</Link>
         </li>
         <li>
-          <Link to="site-mission">Site Mission</Link>
+          <Link to="site-mission">Mission</Link>
         </li>
       </ul>
       <p>You can find out more information about our site here.</p>
